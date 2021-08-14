@@ -7,6 +7,12 @@
 ## what is YOLOv5?
  - YOLOv5 🚀 is a family of compound-scaled object detection models trained on the COCO dataset, <br>
  and includes simple functionality for Test Time Augmentation (TTA), model ensembling, hyperparameter evolution, <br>and export to ONNX, CoreML and TFLite.
+ - ![model_plot](https://user-images.githubusercontent.com/64948651/129456165-b467cb7c-70ef-488f-b581-f160e9cb729b.png)
+ - https://pytorch.org/hub/ultralytics_yolov5/
+
+## model comparison 
+ - ![model_comparison](https://user-images.githubusercontent.com/64948651/129456191-3c428306-3754-4220-932c-0083e1e71e1e.png)
+ - https://pytorch.org/hub/ultralytics_yolov5/
 
  ## PASCAL VOC dataset
   - Pascal VOC is a collection of datasets for object detection.<br>The most commonly combination for benchmarking is using 2007 trainval and 2012 trainval for training and 2007 test for validation. <br>
