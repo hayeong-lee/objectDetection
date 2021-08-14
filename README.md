@@ -1,6 +1,9 @@
 
 # Object Detection :sunglasses:
 
+## goal
+ - detect the **person** in the photo
+
 ## what is YOLOv5?
  - YOLOv5 🚀 is a family of compound-scaled object detection models trained on the COCO dataset, <br>
  and includes simple functionality for Test Time Augmentation (TTA), model ensembling, hyperparameter evolution, <br>and export to ONNX, CoreML and TFLite.
